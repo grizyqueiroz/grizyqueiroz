@@ -22,23 +22,9 @@
 ---
 
 ## 🗄️ Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Grizy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grizyqueiroz&show_icons=true&theme=dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grizyqueiroz&layout=compact&theme=dark)
-
----
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/grizyqueiroz)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/grizyqueiroz)
 
 ---
 
